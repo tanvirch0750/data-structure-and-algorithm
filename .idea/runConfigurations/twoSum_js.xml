@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="twoSum.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v23.1.0/bin/node" nameIsGenerated="true" path-to-js-file="twoSum.js" working-dir="$PROJECT_DIR$/04-problem-solving-patterns/multiple-pointer-pattern">
+    <method v="2" />
+  </configuration>
+</component>
